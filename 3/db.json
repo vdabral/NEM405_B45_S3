@@ -1,0 +1,14 @@
+{
+  "dishes": [
+    { "id": 3, "name": "Pongal", "price": 55, "category": "Breakfast" },
+    { "id": 4, "name": "Chapathi", "price": 40, "category": "Dinner" },
+    { "id": 5, "name": "Idly Fry", "price": 70, "category": "Breakfast" },
+    { "id": 6, "name": "Veg Biryani", "price": 120, "category": "Lunch" },
+    { "id": 7, "name": "Chicken Curry", "price": 150, "category": "Lunch" },
+    { "id": 8, "name": "Puri", "price": 45, "category": "Breakfast" },
+    { "id": 9, "name": "Curd Rice", "price": 50, "category": "Lunch" },
+    { "id": 10, "name": "Parotta", "price": 80, "category": "Dinner" },
+    { "id": 11 },
+    { "name": "Masala Dosa", "price": 80, "category": "Breakfast", "id": 12 }
+  ]
+}
